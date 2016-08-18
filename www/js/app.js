@@ -41,5 +41,4 @@ angular.module('starter', ['ionic'])
 //should be in a controller.js
 .controller('PremierCtrl', function($scope) {
   $scope.test="Coucou";
-  console.log("omg");
 });
